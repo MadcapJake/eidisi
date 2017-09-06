@@ -1,0 +1,9 @@
+data/org.gnome.Eidisi.desktop.in
+data/org.gnome.Eidisi.appdata.xml.in
+data/org.gnome.Eidisi.gschema.xml
+src/window.ui
+
+
+src/main.js
+src/window.js
+
